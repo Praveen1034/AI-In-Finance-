@@ -1,5 +1,4 @@
-# AI-In-Finance-
-AI In Finance 
+# **AI-Powered Financial Insights Chatbot**
 
 + Built an AI-powered financial chatbot using LangFlow and Cohere LLM, integrating data from Tracxn, CB Insights, Forrester, IDC, and LinkedIn.
 + Utilized AstraDB, ChromaDB, and RAG for embedding-based search to provide company financial details, investor insights, and job openings.
